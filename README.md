@@ -1,7 +1,5 @@
 # Hospital-Manangement-System
 
-# 🏥 Hospital Management System (HMS) — Microservices Architecture
-
 An enterprise-grade, distributed **Hospital Management System** built on **Spring Boot 3** and **Spring Cloud**. The system utilizes a microservices architecture to manage patient profiles, doctor availability schedules, appointment booking, medical histories, automated email notifications, and centralized JWT-based authentication.
 
 ---
